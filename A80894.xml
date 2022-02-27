@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of Lieutenant Generall Crumwel concerning the Levellers; and his letter and representation to the agitators of the respective regiments who have deserted and declared against the Parliament, the Councell of State, and the late proceedings of the High Court of Justice. With the declaration, resolution, and proposals of the said Levellers, presented to the view of the world, intimating the grounds and reasons of their engagement, and to die as one man with their swords in their hands, rather then to be inslaved. Also, two fights between the Levellers and the parliamenteers, neer Worcester and Banbury, the particulars thereof, and the number killed; with the Levellers summons to the city of Coventry.</title>
+            <author>Cromwell, Oliver, 1599-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80894</idno>
+            <idno type="STC">Wing C7064</idno>
+            <idno type="STC">Thomason E555_12</idno>
+            <idno type="STC">ESTC R205722</idno>
+            <idno type="EEBO-CITATION">99865017</idno>
+            <idno type="PROQUEST">99865017</idno>
+            <idno type="VID">165103</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80894)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165103)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E555[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of Lieutenant Generall Crumwel concerning the Levellers; and his letter and representation to the agitators of the respective regiments who have deserted and declared against the Parliament, the Councell of State, and the late proceedings of the High Court of Justice. With the declaration, resolution, and proposals of the said Levellers, presented to the view of the world, intimating the grounds and reasons of their engagement, and to die as one man with their swords in their hands, rather then to be inslaved. Also, two fights between the Levellers and the parliamenteers, neer Worcester and Banbury, the particulars thereof, and the number killed; with the Levellers summons to the city of Coventry.</title>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for G.H.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>May 14. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Levellers --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165103:1" rendition="simple:additions"/>
+            <p>THE DECLARATION Of Lieutenant-Generall CRUMWEL Concerning the <hi>Levellers;</hi> And His Letter and Repreſentation to the Agitators of the reſpective Regiments who have deſerted and decla<g ref="char:EOLhyphen"/>red againſt the Parliament, the Councell of <hi>State,</hi> and the late proceedings of the <hi>High Court of Juſtice.</hi>
+            </p>
+            <p>WITH The <hi>Declaration, Reſolution,</hi> and <hi>Propoſals</hi> of the ſaid <hi>Level<g ref="char:EOLhyphen"/>lers,</hi> preſented to the view of the World, intimating the Grounds and Reaſons of their <hi>Engagement,</hi> and to die as one man with their ſwords in their hands, rather then to be inſlaved.</p>
+            <p>ALSO, Two Fights between the <hi>Levellers</hi> and the <hi>parliamenteers,</hi> neer <hi>Worcester</hi> and <hi>Banbury,</hi> the particulars thereof, and the number killed; with the <hi>Levellers</hi> Summons to the City of <hi>COVENTRY.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Imprinted at <hi>London,</hi> for <hi>G. H. May</hi> 14. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165103:2"/>
+            <pb n="1" facs="tcp:165103:2"/>
+            <head>THE DECLARATION Of Lieut-General CRUMWEL Concerning The Levellers; and the particulars of a Fight neere <hi>Banbury,</hi> and the City of <hi>Worcester;</hi> With the Levellers Summons to the City of <hi>Coventry.</hi>
+            </head>
+            <opener>
+               <salute>Right Honoured,</salute>
+            </opener>
+            <p>THis morning his Excellency the Lord Gene<g ref="char:EOLhyphen"/>rall <hi>Fairfax,</hi> and Lieutenant General <hi>Crumwell,</hi> randezvouzed with their Horſe and Foot neer <hi>Andover,</hi> where the Lieu. Gen. rode to the head of each Regiment, declaring, <hi>That He was reſolved to live and die with them, and that as he had often engaged with them againſt the common Enemy of this Nation, ſo was
+<pb n="2" facs="tcp:165103:3"/>he reſolved still to perſist therein, againſt thoſe Revolters which are now called by the name of Levellers; not doubt<g ref="char:EOLhyphen"/>ing but that they would as one man unite, and with una<g ref="char:EOLhyphen"/>nunous ſpirits follow him, for the ſubduing of them, and bringing the chief Ring-leaders thereof to exemplary pu<g ref="char:EOLhyphen"/>niſhment.</hi>
+            </p>
+            <p>Many declared a great willingneſſe to engage with him: Others rejected it, ſaying, they would not fight againſt their friends: But they are now upon their march towards Salisbury, for the reducing and bring<g ref="char:EOLhyphen"/>ing of thoſe Regiments to obedience and ſubjection that have declared againſt them: from whence wee hear, that they are reſolved rather to die, then yeeld to any thing which ſhall infringe their liberty, or pervert the freedom of their Nativity.</p>
+            <p>Many of the ſaid party have agreed upon a Decla<g ref="char:EOLhyphen"/>ration, containing theſe enſuing heads:
+<list>
+                  <item>Firſt, they de<g ref="char:EOLhyphen"/>clare againſt the preſent Parl, and their proceedings.</item>
+                  <item>2 Againſt the Councell of State.</item>
+                  <item>3 Againſt the Ge<g ref="char:EOLhyphen"/>nerall Councell of the Army.</item>
+                  <item>And 4. againſt the pro<g ref="char:EOLhyphen"/>ceedings of the late Court of Juſtice</item>
+               </list> Their chie<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ring leader is one Capt. Tompſon, who was formerly con<g ref="char:EOLhyphen"/>demned by a Councell of War to be hanged, but by the goodneſſe and compaſſion of the Lord Gen. he was ſpared: this is the man who draws all men after him, his number is conceived to be about 400. and in his warch up and down hee daily gains new Proſelites to him: On Wedneſday laſt he marcht to Coventry, where he found re<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſtance, and the Gates ſhut againſt him demand<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the Gates were ſo holy that he might not enter;) and after the exchange of two or three Vol<g ref="char:EOLhyphen"/>lies, he left the place, and marched thence to Toſſiter,
+<pb n="3" facs="tcp:165103:3"/>where coming in very late at night, he ſeized upon ca<g ref="char:EOLhyphen"/>ptain Farmer the Poſt maſter there, who, after they had carryed him as a priſoner up and down with them, they were content to releaſe him upon his Parol to come up to London to the Councel of State, to pro<g ref="char:EOLhyphen"/>cure the releaſe of three of their Brethren, who were taken poſting up of their papers about Banbury; if he could not procure this he was to return as their priſo<g ref="char:EOLhyphen"/>ner to Banbury.</p>
+            <p>Some blows have been already diſputed neer Banbu<g ref="char:EOLhyphen"/>ry between 100 of the Lord Gen. horſe, and 2<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0 of the Levellers, and after a ſharp conflict, the Levellers declining engagement, retreated towards Oxford, but no great harm done on either ſide: there is a body of horſe about <hi>Oxford</hi> ready to joyn with them, comman<g ref="char:EOLhyphen"/>ded by Mr. <hi>Everard,</hi> after uniting, its ſaid they intend Weſtward.</p>
+            <p>Some difference hath alſo been in the City of <hi>Wor<g ref="char:EOLhyphen"/>ceſter,</hi> and the Levellers who had entred the City for<g ref="char:EOLhyphen"/>ced to retreat out again with t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> loſſe of five men: the Generall and the Lieutenant Generall hath ſent a Let<g ref="char:EOLhyphen"/>ter to the Agitators and Commanders in chief of the ſaid party, for preventing of the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffuſion of bloud, and healing of the preſent breach, and quenching thoſe flame of Diſcord, which are ready to break forth in ſeverall parts of this Nation; and its hoped a happy &amp; mutuall econciliation will be embr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ced, before the involving and ſhedding of any more bloud within the Rowels of this Nation.</p>
+            <closer>
+               <dateline>Andover <date>12 May, 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:165103:4"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN the middeſt of all our calamities and diſtracti<g ref="char:EOLhyphen"/>ons, great are the differences in theſe parts; new coles are even now kindling, and the turbulent ſpi<g ref="char:EOLhyphen"/>rits and affections of men begin to break forth in a moſt violent and viſible flame; for the common peo<g ref="char:EOLhyphen"/>ple ſlight the authority of Magiſtracy, and ſay they will no longer walk under the vail and ſhadow of re<g ref="char:EOLhyphen"/>formation, but endeavour the ſpeedy reforming there<g ref="char:EOLhyphen"/>of; and in order thereunto, many have declared, that they will joyn with the Levellers, for the reſtauration of the peoples freedoms to its juſt ſplendor and pro<g ref="char:EOLhyphen"/>priety, &amp;c. The foundation whereof, takes its firſt Riſe from the preſent actings of certain troopers in this county, who have declared, and remonſtrated to the people, <hi>That the preſent tranſaction of affaires, are both arbytrary and tyrannicall, and that they will have a new Parliament, in the diſsolving whereof, an equall Re<g ref="char:EOLhyphen"/>preſentative ſhall be freely choſen and elected:</hi> But it is hoped that all theſe vapours will be ſoon expelled &amp; blown over: For ſome diſcoveries are already made, <hi>That they had a deſign to ſurprize the Cities of</hi> Yorke, Oxford, Briſtol, Glouceſter, <hi>and many other places in the VVeſt of</hi> England, <hi>and that they had an intent to draw into a body and randezvouz, where they reſolved to ſet up a ſtandard of Sea-green Colours; they declare, that they have a great influence in divers Regiments of the Army; but care is taken to prevent their Deſigns, and it is not doubted but the well affected of Col.</hi> Scroops <hi>Regi<g ref="char:EOLhyphen"/>ment, Col.</hi> Harriſons, <hi>and divers others wherein they buſ<g ref="char:EOLhyphen"/>ſie, will be undeceived, for many thouſands have declared against their preſent actings, and are reſolved to ſacri<g ref="char:EOLhyphen"/>fice
+<pb n="5" facs="tcp:165103:4"/>lives and fortunes for the Parliament against all op<g ref="char:EOLhyphen"/>poſition whatſoever.</hi>
+            </p>
+            <p>But yet notwithſtanding all oppoſition, they are re<g ref="char:EOLhyphen"/>ſolved to proceed, and to inſiſt upon further particu<g ref="char:EOLhyphen"/>lars, a breviate whereof I ſhall here inſert, according to the full demonſtration thereof, <hi>viz.</hi>
+            </p>
+            <p>How happy were England were mens deſigns of en<g ref="char:EOLhyphen"/>ſlaving here at an end, how gladly ſhould we here break off, and praiſe the Lord for his goodneſſe to England? but alas the peoples hearts, are full of grief, and their eyes are full of teares, as ever, they cry out, they are deceived, their expectations is fruſtrated, and their liberty betrayed; they take up Davids complaint it is not an open enemy that enſlaves them, not damme Cavaliers, nor rigid envious and ſurly Preſbyters, but Religious and Godly friends, that have prayed, decla<g ref="char:EOLhyphen"/>red and fought together for freedom with them, that with their ſwords have cut in ſunder the chaines of o<g ref="char:EOLhyphen"/>ther Tyrants, and yet now are become the greateſt Ty<g ref="char:EOLhyphen"/>rants over their brethren themſelves, which when they can refrain from fighing &amp; ſobbing, they in their bro<g ref="char:EOLhyphen"/>ken and ruſtick language thus expatiates: all the form of Government being corrupted and abuſed, the Law and adminiſtration perverted, and the peoples liber<g ref="char:EOLhyphen"/>ties betrayed; it was promiſed that a new foundation ſhould be layd by an agreement of the people, to ſuch righteous Principles of Juſtice and common right, that as to human reaſon it ſhould be impoſſib for any Tyrants in this or future generations to introduce bon<g ref="char:EOLhyphen"/>dage upon the people.</p>
+            <closer/>
+            <postscript>
+               <p>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oclamation hath been lately made in the name of the Levellers, throughout the Counties of <hi>Oxford, Glou<g ref="char:EOLhyphen"/>ceſter,
+<pb n="6" facs="tcp:165103:5"/> Worceſter,</hi> &amp;c. for all free born people to come in to their aſſiſtance; the diſgeſti<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>reof is very hard,<hi>&amp;</hi> few have little appetite to that engagement.</p>
+            </postscript>
+         </div>
+         <div type="postscript">
+            <opener>
+               <dateline>Abbington <date>12 May, 1649.</date>
+               </dateline>
+            </opener>
+            <head>The Levellers new and ultimate propoſals.</head>
+            <p>Firſt, That honeſty is the beſt policy: the deep plots and witty contrivances of men in power, when incon<g ref="char:EOLhyphen"/>ſiſtent with the will of God, requiring them to do Judgement and Juſtice, and to take the yolks from the oppreſſed, have alway been abortive, for God will not be mocked; and experience tels us, that ſelf-ſee<g ref="char:EOLhyphen"/>kers though otherwiſe Godly and gallant men, yet are and ſhalbe ſaved as by fire; witneſſe many worthy members of Parliament, who endeavouring by a Treaty to ſecure themſelves, are by the Lord with diſgrace laid aſide; hee thereby no doubt intending much good to their ſoules, <hi>Foelix quem faciunt aliena pericula cautum,</hi> he is a happy man that takes warning by other mens harms.</p>
+            <p>Secondly, Carnal mixtures with corrupt intereſts, are deſtructive to them that make them.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
